@@ -17,7 +17,7 @@
   </div>
   <img align="right" width="300"
     src="https://media2.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e47picsxxs5u5e5n3laa2gxkv5zx2vwh0l60imhok91&rid=giphy.gif&ct=g"
-    alt="rsrs"> + </br>
+    alt="rsrs">  </br>
   <h2>(Learning) aprendendo: 👨‍💻</h2>
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40"
@@ -31,7 +31,7 @@
   <div style="display: inline_block"><br>
     <img height="30" width="40" src="img/visual-studio-code.png" alt="visual-studio-code">
     <img height="30" width="40" src="img/git.png" alt="git">
-  </div>
+  </div> </br>
   <div align="center">
     <a href="https://github.com/VibeAstral">
       <img height="180em"
