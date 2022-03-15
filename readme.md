@@ -13,7 +13,7 @@
     </br>
     🔥Posso dizer que para mim aprender é tao vital quanto respirar🔥
     </br>
-    ⛈ "por enquanto isso é o inicio mas até a metade do caminho tudo vai mudar"🌈
+    ⛈ "por enquanto isso é o inicio mas até a metade do caminho tudo vai mudar"🌈 </br>
   </div>
   <img align="right" width="300"
     src="https://media2.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e47picsxxs5u5e5n3laa2gxkv5zx2vwh0l60imhok91&rid=giphy.gif&ct=g"
