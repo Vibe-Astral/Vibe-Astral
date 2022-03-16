@@ -40,7 +40,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibe-Astral&layout=compact&langs_count=7&theme=dracula" />
   </div>
   </br>
-  <h3>Scocial-Midia</h3>
+  <h3>Social-Midia</h3>
   <div>
     <a href="https://discord.gg/7sMByrsK" target="_blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
