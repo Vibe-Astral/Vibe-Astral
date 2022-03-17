@@ -42,7 +42,7 @@
   </br>
   <h3>Social-Midia</h3>
   <div>
-    <a href="https://discord.gg/7sMByrsK" target="_blank">
+    <a href="hhttps://discord.gg/HWKg4DVTfz" target="_blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
         target="_blank">
     </a>
