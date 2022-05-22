@@ -26,8 +26,8 @@
   </div>
   <h2>(Tools) Ferramentas 🧠 </h2>
   <div style="display: inline_block"><br>
-    <img height="30" width="40" src="img/visual-studio-code.png" alt="visual-studio-code">
-    <img height="30" width="40" src="img/git.png" alt="git">
+    <img height="30" width="35" src="img/visual-studio-code.png" alt="visual-studio-code">
+    <img height="30" width="35" src="img/git.png" alt="git">
   </div> </br>
   <div align="center">
     <a href="https://github.com/VibeAstral">
