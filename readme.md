@@ -9,15 +9,12 @@
     </br>
     📚Curso Engenharia de Software📚
     </br>
-    💫Tenho 18 anos de idade💫
+    💫Tenho 19 anos de idade💫
     </br>
     🔥Posso dizer que para mim aprender é tao vital quanto respirar🔥
     </br>
     ⛈ "por enquanto isso é o inicio, mas até a metade do caminho tudo vai mudar"🌈 
   </div> </br>
-  <img align="right" width="300"
-    src="https://media2.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e47picsxxs5u5e5n3laa2gxkv5zx2vwh0l60imhok91&rid=giphy.gif&ct=g"
-    alt="rsrs">  </br>
   <h2>(Learning) aprendendo: 👨‍💻</h2>
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40"
