@@ -9,15 +9,12 @@
     </br>
     📚Curso Engenharia de Software📚
     </br>
-    💫Tenho 18 anos de idade💫
+    💫Tenho 19 anos de idade💫
     </br>
     🔥Posso dizer que para mim aprender é tao vital quanto respirar🔥
     </br>
-    ⛈ "por enquanto isso é o inicio mas até a metade do caminho tudo vai mudar"🌈
-  </div>
-  <img align="right" width="300"
-    src="https://media2.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e47picsxxs5u5e5n3laa2gxkv5zx2vwh0l60imhok91&rid=giphy.gif&ct=g"
-    alt="rsrs">
+    ⛈ "por enquanto isso é o inicio, mas até a metade do caminho tudo vai mudar"🌈 
+  </div> </br>
   <h2>(Learning) aprendendo: 👨‍💻</h2>
   <div style="display: inline_block"><br>
     <img align="center" alt="jorge-Js" height="30" width="40"
@@ -35,9 +32,9 @@
   </div>
   <h2>(Tools) Ferramentas 🧠 </h2>
   <div style="display: inline_block"><br>
-    <img height="30" width="40" src="img/visual-studio-code.png" alt="visual-studio-code">
-    <img height="30" width="40" src="img/git.png" alt="git">
-  </div>
+    <img height="30" width="35" src="img/visual-studio-code.png" alt="visual-studio-code">
+    <img height="30" width="35" src="img/git.png" alt="git">
+  </div> </br>
   <div align="center">
     <a href="https://github.com/VibeAstral">
       <img height="180em"
@@ -46,9 +43,9 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibe-Astral&layout=compact&langs_count=7&theme=dracula" />
   </div>
   </br>
-  <h3>Scocial-Midia</h3>
+  <h3>Social-Midia</h3>
   <div>
-    <a href="https://discord.gg/7sMByrsK" target="_blank">
+    <a href="https://discord.gg/HWKg4DVTfz" target="_blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
         target="_blank">
     </a>
@@ -56,7 +53,7 @@
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
         target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/jorge-antonio-a84869229/" target="_blank">
+    <a href="https://www.linkedin.com/in/jorge-antonio-ens-vb/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank">
     </a>
