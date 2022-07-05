@@ -13,7 +13,6 @@
     </br>
     🔥Posso dizer que para mim aprender é tao vital quanto respirar🔥
     </br>
-    ⛈ "por enquanto isso é o inicio, mas até a metade do caminho tudo vai mudar"🌈 
   </div> </br>
   <h2>(Learning) aprendendo: 👨‍💻</h2>
   <div style="display: inline_block"><br>
