@@ -1,39 +1,39 @@
 <body>
   <h1 align="center">Hi 👋</h1>
-  <h1 align="center">
-    <img alt="GoStack" src="img/cp.jpg" width="300px" />
-  </h1>
-  <h2>I'm jorge, but you can call me Vibe 😳</h2>
+  <h2>I'm jorge</h2>
   <div class="Introduçao">
     📝I'm in the process of learning English📝
     </br>
-    📚Curso Engenharia de Software📚
+    📚I'm studying Software Engineering📚
     </br>
-    💫Tenho 19 anos de idade💫
+    💫I'm 19 years old💫
     </br>
-    🔥Posso dizer que para mim aprender é tao vital quanto respirar🔥
+    🔥I can say that for me learning is as vital as breathing🔥
     </br>
   </div> </br>
-  <h2>(Learning) aprendendo: 👨‍💻</h2>
+  <h2>Learning 👨‍💻</h2>
   <div style="display: inline_block"><br>
     <img align="center" alt="jorge-Js" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor">
     <img align="center" alt="jorge-HTML" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor">
     <img align="center" alt="jorge-CSS" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="jorge-CSS" height="30" width="40"
-      src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
-      <img align="center" alt="jorge-CSS" height="30" width="40"
-      src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
-    
+      src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor">
+      <img align="center" alt="jorge-Nodejs" height="30" width="40"
+      src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor">
+      <img align="center" alt="jorge-react" height="30" width="40"
+      src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor">
+      <img align="center" alt="jorge-pg" src="https://icongr.am/devicon/postgresql-original.svg?size=40&color=currentColor">
+      <img align="center" alt="jorge-typescript" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=currentColor">
+      <img align="center" alt="jorge-java" src="https://icongr.am/devicon/java-original.svg?size=40&color=currentColor">
+
    
 
   </div>
-  <h2>(Tools) Ferramentas 🧠 </h2>
+  <h2>Tools 🧠</h2>
   <div style="display: inline_block"><br>
     <img height="30" width="35" src="img/visual-studio-code.png" alt="visual-studio-code">
-    <img height="30" width="35" src="img/git.png" alt="git">
+    <img height="30" width="35" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor" alt="git">
   </div> </br>
   <div align="center">
     <a href="https://github.com/VibeAstral">
