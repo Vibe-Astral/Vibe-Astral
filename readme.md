@@ -6,7 +6,7 @@
     </br>
     📚I'm studying Software Engineering📚
     </br>
-    💫I'm 20 years old💫
+    💫I'm 22 years old💫
     </br>
     🔥I can say that for me learning is as vital as breathing🔥
     </br>
