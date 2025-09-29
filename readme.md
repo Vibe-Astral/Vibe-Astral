@@ -36,7 +36,7 @@
     <img height="30" width="35" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor" alt="git">
   </div> </br>
   <div align="center">
-    <a href="https://github.com/VibeAstral">
+    <a href="https://github.com/Vibe-Astral">
       <img height="180em"
         src="https://github-readme-stats.vercel.app/api?username=Vibe-Astral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
       <img height="180em"
